@@ -1,0 +1,16 @@
+{
+  "name": "apicall",
+  "version": "1.0.0",
+  "description": "HAssaan's api call model",
+  "main": "api.js",
+  "scripts": {
+    "test": "test",
+    "start": "node ./api.js"
+  },
+  "author": "ABubakar Mughal",
+  "license": "ISC",
+  "dependencies": {
+    "@supabase/supabase-js": "^1.31.1",
+    "axios": "^0.26.1"
+  }
+}
